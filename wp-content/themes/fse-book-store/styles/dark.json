@@ -1,0 +1,116 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Dark",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+              "slug": "primary",
+              "color": "#FF9439",
+              "name": "Primary"
+            },
+            {
+              "slug": "primary-light",
+              "color": "#FFF1E5",
+              "name": "Primary Light"
+            },
+            {
+              "slug": "secondary",
+              "color": "#1393E3",
+              "name": "Secondary"
+            },
+            {
+              "slug": "secondary-light",
+              "color": "#94c7e7",
+              "name": "Secondary Light"
+            },
+            {
+              "slug": "third-color",
+              "color": "#9187CA",
+              "name": "Third Color"
+            },
+            {
+              "slug": "third-color-light",
+              "color": "#0f0644",
+              "name": "Third Color Light"
+            },
+            {
+              "slug": "fourth-color",
+              "color": "#E86168",
+              "name": "Fourth Color"
+            },
+            {
+              "slug": "fourth-color-light",
+              "color": "#EAB3B5",
+              "name": "Fourth Color Light"
+            },
+            {
+              "slug": "heading",
+              "color": "#f9f9ff",
+              "name": "Heading"
+            },
+            {
+              "slug": "body-text",
+              "color": "#babac4",
+              "name": "Body Text"
+            },
+            {
+              "slug": "tertiary-text-color",
+              "color": "#f6f7fa",
+              "name": "Tertiary Text Color"
+            },
+            {
+              "slug": "tertiary-bg-color",
+              "color": "#141414",
+              "name": "Tertiary Bg Color"
+            },
+            {
+              "slug": "border-color",
+              "color": "#5b5858",
+              "name": "Border Color"
+            },
+            {
+              "slug": "background",
+              "color": "#000000",
+              "name": "Background"
+            },
+            {
+              "slug": "foreground",
+              "color": "#ffffff",
+              "name": "Foreground"
+            },
+            {
+              "slug": "section-bg-color",
+              "color": "#333337",
+              "name": "Section Bg Color"
+            },
+            {
+              "slug": "section-border-color",
+              "color": "#8B8B8F",
+              "name": "Section Border Color"
+            },
+            {
+              "slug": "banner-text",
+              "color": "#415270",
+              "name": "Banner Text"
+            },
+            {
+              "slug": "home-search-text",
+              "color": "#98A1B0",
+              "name": "Home Search Text"
+            },
+            {
+              "slug": "footer-bg",
+              "color": "#0D102A",
+              "name": "Footer Bg"
+            },
+            {
+              "slug": "footer-color",
+              "color": "#121639",
+              "name": "Footer Color"
+            }
+        ]
+    }
+  }
+}

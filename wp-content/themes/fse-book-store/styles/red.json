@@ -1,0 +1,116 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Red",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+        {
+          "slug": "primary",
+          "color": "#F13B3B",
+          "name": "Primary"
+        },
+        {
+          "slug": "primary-light",
+          "color": "#FEEEC6",
+          "name": "Primary Light"
+        },
+        {
+          "slug": "secondary",
+          "color": "#E3A812",
+          "name": "Secondary"
+        },
+        {
+          "slug": "secondary-light",
+          "color": "#F4DFAA",
+          "name": "Secondary Light"
+        },
+        {
+          "slug": "third-color",
+          "color": "#5C44E8",
+          "name": "Third Color"
+        },
+        {
+          "slug": "third-color-light",
+          "color": "#E8E4FF",
+          "name": "Third Color Light"
+        },
+        {
+          "slug": "fourth-color",
+          "color": "#75B64A",
+          "name": "Fourth Color"
+        },
+        {
+          "slug": "fourth-color-light",
+          "color": "#D2F8B9",
+          "name": "Fourth Color Light"
+        },
+        {
+          "slug": "heading",
+          "color": "#243142",
+          "name": "Heading"
+        },
+        {
+          "slug": "body-text",
+          "color": "#333333",
+          "name": "Body Text"
+        },
+        {
+          "slug": "tertiary-text-color",
+          "color": "#999999",
+          "name": "Tertiary Text Color"
+        },
+        {
+          "slug": "tertiary-bg-color",
+          "color": "#f6f7fa",
+          "name": "Tertiary Bg Color"
+        },
+        {
+          "slug": "border-color",
+          "color": "#EEEEEE",
+          "name": "Border Color"
+        },
+        {
+          "slug": "background",
+          "color": "#ffffff",
+          "name": "Background"
+        },
+        {
+          "slug": "foreground",
+          "color": "#000000",
+          "name": "Foreground"
+        },
+        {
+          "slug": "section-bg-color",
+          "color": "#F6F6FF",
+          "name": "Section Bg Color"
+        },
+        {
+          "slug": "section-border-color",
+          "color": "#E3E3FF",
+          "name": "Section Border Color"
+        },
+        {
+          "slug": "banner-text",
+          "color": "#415270",
+          "name": "Banner Text"
+        },
+        {
+          "slug": "home-search-text",
+          "color": "#98A1B0",
+          "name": "Home Search Text"
+        },
+        {
+          "slug": "footer-bg",
+          "color": "#0D102A",
+          "name": "Footer Bg"
+        },
+        {
+          "slug": "footer-color",
+          "color": "#121639",
+          "name": "Footer Color"
+        }
+      ]
+    }
+  }
+}
